@@ -2,7 +2,7 @@
 Developed a todo list app where client add items.After adding items client also delete the items and edit the items.
 
 # Github Link
-(repositry link)[]
+(repositry link)[https://github.com/vindreshsingh/TODO-List]
 
 ## Tech Stack
 
