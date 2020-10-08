@@ -32,5 +32,5 @@ Habit-Trackers <br>
 │ --- ├── bootstrap.min.css <br>
 │ --- ├── index.html <br>
 │ --- ├── style.css <br>
-│ --- ├── to-do.js
+│ --- └── to-do.js <br>
 └── README.md <br>
