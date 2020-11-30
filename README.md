@@ -3,6 +3,8 @@ Developed a todo list app where client add items.After adding items client also 
 
 # Github Link
 (repositry link)[https://github.com/vindreshsingh/TODO-List]
+ # Hosted Link
+ (hosted link)[https://vindreshsingh.github.io/TODO-List/views/index.html]
 
 ## Tech Stack
 
